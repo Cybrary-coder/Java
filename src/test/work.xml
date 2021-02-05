@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T13:13:49.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="znH7rq_hOvSf_MVxvFCX" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-05T13:17:13.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="CwIFTCEtn-Ea652vSWeK" version="14.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,6 +223,18 @@
         </mxCell>
         <mxCell id="2_QVGx0Tcl_hPlucldY3-62" value="Graduate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="790" width="73" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2_QVGx0Tcl_hPlucldY3-63" value="Supervisor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="153" y="643" width="73" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2_QVGx0Tcl_hPlucldY3-64" value="Supervisor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="153" y="404" width="73" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2_QVGx0Tcl_hPlucldY3-65" value="Student Advisor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="960" width="73" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2_QVGx0Tcl_hPlucldY3-67" value="Graduate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="840" width="73" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
